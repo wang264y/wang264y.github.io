@@ -9,6 +9,12 @@ redirect_from:
   - /research.html
 ---
 
+Below are the research projects I have done in the past few years. 
+
+Also, I am joining a few research groups for the upcoming winter semester at University of Michigan: 
+1. [Professor Raed Al Kontar's]("https://alkontar.engin.umich.edu/") Research group on collaborative, distributed, and federated data analytics.
+2. The [MDP SOCR research project]("https://mdp.engin.umich.edu/research_teams/socr-24/") mentored by [Professor Ivo D. Dinov]("https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov"). Here's the brief [project introduction]("https://socr.umich.edu/docs/uploads/2024/SOCR_MDP_2024_Projects.pdf") for 2024. 
+
 ## Parking Functions and Unit Interval Parking Functions with Fixed Ascent and Descent Sets
 
 **Abstract:** We recall that unit interval parking functions of length $n$ are a subset of parking functions in which every car parks in its preference or in the spot after its preference, and Fubini rankings of length n are rankings of $n$ competitors allowing for ties. We present an independent proof of a result of Hadaway, which establishes that unit interval parking functions and Fubini rankings are in bijection. We also prove that the cardinality of these sets are given by Fubini numbers. In addition, we give a complete characterization of unit interval parking functions by determining when a rearrangement of a unit interval parking function is again a unit interval parking function. This
@@ -19,7 +25,7 @@ This research was completed at the [Summer@ICERM 2022 REU]("https://icerm.brown.
 **Talks and Posters:**
 
 1. 2022 Summer@ICERM Final Presentation ([slide]("https://app.icerm.brown.edu/assets/372/4320/4320_3425_Reutercrona-Wang-Whidden_080320221100_Slides.pdf"))
-2. 2023 Joint Mathematics Meeting – Pi Mu Epsilon Poster Session ([poster]("files/pf_poster.pdf"))
+2. 2023 Joint Mathematics Meeting - Pi Mu Epsilon Poster Session ([poster]("files/pf_poster.pdf"))
 3. 2023 Joint Mathematics Meeting - Pi Mu Epsilon Contributed Session on Research by Undergraduates
 
 ## Determination of Average Time that A Particle Escapes from a Channel with Diverse Parameters
