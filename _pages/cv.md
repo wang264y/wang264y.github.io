@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Math and Data Science, Mount Holyoke College, 2023
+* M.S. in Data Science, University of Michigan, Ann Arbor, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* March 2022 - May 2023: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git

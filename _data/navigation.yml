@@ -5,19 +5,19 @@ main:
   #   url: /education/
 
   - titie: "Research"
-    url: /research/
+    url: /research.html
 
   - title: "Projects"
-    url: /projects/
+    url: /projects.html
   
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Tutor"
-    url: /teaching/    
+    url: /tutor.html    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -25,11 +25,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  # - title: "Extracurricular"
-  #   url: /extracurricular/
+  - title: "Extracurricular"
+    url: /extracurricular.html
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   - title: "Resume"
     url: /files/Resume.pdf
