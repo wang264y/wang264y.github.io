@@ -4,10 +4,7 @@ main:
   - title: "Home"
     url: /about.html
 
-  # - title: "Education"
-  #   url: /education/
-
-  - titie: "Research"
+  - title: "Research"
     url: /research.html
 
   - title: "Projects"
