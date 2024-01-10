@@ -32,7 +32,7 @@ main:
     url: /cv/
 
   - title: "Resume"
-    url: /file/Resume.pdf
+    url: /files/Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
