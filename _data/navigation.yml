@@ -22,8 +22,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Extracurricular"
-    url: /extracurricular.html
+  # - title: "Extracurricular"
+  #   url: /extracurricular.html
     
   # - title: "CV"
   #   url: /cv/
