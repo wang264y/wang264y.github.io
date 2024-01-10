@@ -13,7 +13,7 @@ Below are the research projects I have done in the past few years.
 
 Also, I am joining a few research groups for the upcoming winter semester at University of Michigan: 
 1. [Professor Raed Al Kontar's](https://alkontar.engin.umich.edu/) Research group on collaborative, distributed, and federated data analytics.
-2. The [MDP SOCR research project](https://mdp.engin.umich.edu/research_teams/socr-24/) mentored by [Professor Ivo D. Dinov]("https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov"). Here's the brief [project introduction](https://socr.umich.edu/docs/uploads/2024/SOCR_MDP_2024_Projects.pdf) for 2024. 
+2. The [MDP SOCR research project](https://mdp.engin.umich.edu/research_teams/socr-24/) mentored by [Professor Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov). Here's the brief [project introduction](https://socr.umich.edu/docs/uploads/2024/SOCR_MDP_2024_Projects.pdf) for 2024. 
 
 ## Parking Functions and Unit Interval Parking Functions with Fixed Ascent and Descent Sets
 
