@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/data_science.jpeg){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+![](/images/data_science.jpeg){: .align-right width="400px"}
+👩🏻‍🎓 I'm a 1st year masters student at University of Michigan, Ann Arbor studying Data Science.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🎓 I graduated from [Mount Holyoke College]("https://www.mtholyoke.edu/") with a BA degree in Math and Data Science in May 2023.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+💼 Currently I am looking for Data science, data analytics related summer 2024 internship and/or research opportunities!
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🎹 I am also interested in Acapella, reading and watching movies & TV shows.
+
+
 
 A data-driven personal website
 ======
