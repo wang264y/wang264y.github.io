@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ![](/images/data_science.jpeg){: .align-right width="400px"}
+![](/images/data_science2.jpeg){: .align-right width="400px"}
 👩🏻‍🎓 I'm a 1st year masters student at University of Michigan, Ann Arbor studying Data Science.
 
 🎓 I graduated from [Mount Holyoke College]("https://www.mtholyoke.edu/") with a BA degree in Math and Data Science in May 2023.
