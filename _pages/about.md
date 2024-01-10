@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ![](/images/data_science.jpeg){: .align-right width="300px"}
+
 ![](/images/data_science2.jpeg){: .align-right width="300px"}
 👩🏻‍🎓 I'm a 1st year masters student at University of Michigan, Ann Arbor studying Data Science.
 
