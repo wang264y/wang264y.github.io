@@ -12,7 +12,7 @@ redirect_from:
 
 👩🏻‍🎓 I'm a 1st year masters student at University of Michigan, Ann Arbor studying Data Science.
 
-🎓 I graduated from [Mount Holyoke College]("https://www.mtholyoke.edu/") with a BA degree in Math and Data Science in May 2023.
+🎓 I graduated from [Mount Holyoke College](https://www.mtholyoke.edu/) with a BA degree in Math and Data Science in May 2023.
 
 💼 Currently I am looking for Data science, data analytics related summer 2024 internship and/or research opportunities!
 
