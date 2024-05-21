@@ -11,16 +11,14 @@ redirect_from:
 
 Below are the research projects I have done in the past few years. 
 
-Also, I am joining a few research groups for the upcoming winter semester at University of Michigan: 
-1. [Professor Raed Al Kontar's](https://alkontar.engin.umich.edu/) Research group on collaborative, distributed, and federated data analytics.
-2. The [MDP SOCR research project](https://mdp.engin.umich.edu/research_teams/socr-24/) mentored by [Professor Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov). Here's the brief [project introduction](https://socr.umich.edu/docs/uploads/2024/SOCR_MDP_2024_Projects.pdf) for 2024. 
+Also, I am currently working with [Professor Ivo D. Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Professor Simeone Mario on the [MDP SOCR research project](https://mdp.engin.umich.edu/research_teams/socr-24/). Here's the brief [project introduction](https://socr.umich.edu/docs/uploads/2024/SOCR_MDP_2024_Projects.pdf) for 2024. 
 
 ## Parking Functions and Unit Interval Parking Functions with Fixed Ascent and Descent Sets
 
 **Abstract:** We recall that unit interval parking functions of length $n$ are a subset of parking functions in which every car parks in its preference or in the spot after its preference, and Fubini rankings of length n are rankings of $n$ competitors allowing for ties. We present an independent proof of a result of Hadaway, which establishes that unit interval parking functions and Fubini rankings are in bijection. We also prove that the cardinality of these sets are given by Fubini numbers. In addition, we give a complete characterization of unit interval parking functions by determining when a rearrangement of a unit interval parking function is again a unit interval parking function. This
 yields an identity for the Fubini numbers as a sum of multinomials over compositions. Moreover, we introduce a generalization of Fubini rankings, which we call the $r$-Fubini rankings of length $n + r$. We show that this set is in bijection with unit interval parking functions of length $n + r$ where the first $r$ cars have distinct preferences. We conclude by establishing that these sets are enumerated by the $r$-Fubini numbers.
 
-This research was completed at the [Summer@ICERM 2022 REU](https://icerm.brown.edu/summerug/2022/) in Providence, Rhode Island with Eva Reutercrona (Pacific Lutheran University) and Juliet Whidden (Vassar College), under the mentorship of [Professor Gordon Rojas Kirby](https://sites.google.com/view/girkirby/), [Professor Pamela E. Harris](https://www.pamelaeharris.com/), [Professor Jennifer Elder](https://jennifer.totallyconsultants.com/) and graduate student S. Alex Bradt. Our [paper](https://arxiv.org/abs/2401.06937) is accepted and published on the arXiv.
+This research was completed at the [Summer@ICERM 2022 REU](https://icerm.brown.edu/summerug/2022/) in Providence, Rhode Island with Eva Reutercrona (Pacific Lutheran University) and Juliet Whidden (Vassar College), under the mentorship of [Professor Gordon Rojas Kirby](https://sites.google.com/view/girkirby/), [Professor Pamela E. Harris](https://www.pamelaeharris.com/), [Professor Jennifer Elder](https://jennifer.totallyconsultants.com/) and graduate student S. Alex Bradt. Our paper is accepted and published (See publication section).
 
 **Talks and Posters:**
 

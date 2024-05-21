@@ -13,7 +13,7 @@ learning algorithms. The results show a more convincing level of precision in th
 aggregation of both stock market data and sentiment analysis data.'
 date: 2021-07-01
 venue: 'Frontiers in Economics and Management'
-paperurl: 'files/stock_price.pdf'
+paperurl: ''
 citation: 'Xu, M., Wang, Y., Huang, Y., & Xu, M. (2021). Leveraging Financial News Analysis to Predict Stock Price Movement. Frontiers in Economics and Management, 2(7), 265-276.'
 ---
 Stock market predictions have been prominent among scholars. Sentiment analysis
