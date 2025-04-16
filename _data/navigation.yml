@@ -25,11 +25,11 @@ main:
   # - title: "Extracurricular"
   #   url: /extracurricular.html
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/cv.pdf
 
-  - title: "Resume"
-    url: /files/Resume.pdf
+  # - title: "Resume"
+  #  url: /files/Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
